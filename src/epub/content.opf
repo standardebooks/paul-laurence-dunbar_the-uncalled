@@ -37,7 +37,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A man finds himself forced into religious life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Uncalled&lt;/i&gt; tells the story of Frederick Brent, a man abandoned by his father and orphaned at an young age, who sees himself thrust into religous life by his devout guardian despite his lack of vocation for it.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Uncalled&lt;/i&gt; tells the story of Frederick Brent, a man abandoned by his father and orphaned at an young age, who sees himself thrust into religious life by his devout guardian despite his lack of vocation for it.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Uncalled&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/paul-laurence-dunbar"&gt;Paul Laurence Dunbar’s&lt;/a&gt; first novel. It was neither a critical nor a commercial success, as it was overshadowed by his more successful novel &lt;a href="https://standardebooks.org/ebooks/paul-laurence-dunbar/the-sport-of-the-gods"&gt;&lt;i&gt;The Sport of the Gods&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
